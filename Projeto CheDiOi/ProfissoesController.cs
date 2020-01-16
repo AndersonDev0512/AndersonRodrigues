@@ -64,7 +64,7 @@ namespace WebApiBackendTeste.Controller
                         },
                     }
                 }).ToList();
-                return Request.CreateResponse(HttpStatusCode.OK, profissaoPOCOs);
+                return Request.CreateResponse(HttpStatusCode.OK);
             }
             catch (Exception EX)
             {
