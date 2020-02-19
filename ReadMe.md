@@ -2,7 +2,7 @@
 Idade:19 Anos,
 2ºSemestre: Ciências da Computação,
 ---------------------------------------------------------------
-    ESSE É MEU REPOSITÓRIO PESSOAL PARA OS SEGUINTE CÓDIGOS:
+    Esse é meu repositório pessoal para as seguintes linguagens:
 
 Códigos em C - Programação Estruturada,
 Código em C# - Programação Orientada a Objeto,
