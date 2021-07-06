@@ -1,6 +1,6 @@
 #Anderson Erdeval da Silva Rodrigues,
-Idade:19 Anos,
-2ºSemestre: Ciências da Computação,
+Idade:21 Anos,
+5ºSemestre: Ciências da Computação,
 ---------------------------------------------------------------
     Esse é meu repositório pessoal para as seguintes linguagens:
 
